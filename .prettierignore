@@ -1,0 +1,9 @@
+artifacts
+cache
+coverage
+dist
+node_modules
+types
+frontend
+*.env
+.pnp.*
